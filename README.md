@@ -1,10 +1,9 @@
-# helloworld
+# astrbot_plugin_fund 🥳
 
-AstrBot 插件模板
+查看、监控基金，管理自选基金的 AstrBot 插件。
 
-A template plugin for AstrBot plugin feature
+- `基金 <基金ID>`: 查看基金详情。
 
-# 支持
+- `添加基金 <基金ID> <持有份额>`: 添加自选基金。
 
-[帮助文档](https://astrbot.soulter.top/center/docs/%E5%BC%80%E5%8F%91/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/
-)
+- `持仓`: 查看自选基金持仓，包括持有份额、持有成本、持有收益，并且输出总资产和今日收益。

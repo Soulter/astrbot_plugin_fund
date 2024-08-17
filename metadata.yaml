@@ -1,6 +1,6 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-help: 输入 /keyword 查看关键词回复帮助。 # 插件的帮助信息
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
+name: astrbot_plugin_fund # 这是你的插件的唯一识别名。
+desc: 查看和监控基金、管理个人基金持仓 # 插件简短描述
+help: 
+version: v1.0.0 # 插件版本
 author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+repo: https://github.com/Soulter/astrbot_plugin_fund # 仓库地址
